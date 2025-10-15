@@ -173,7 +173,7 @@ fun SettingsSlider() {
 @Composable
 fun SettingsRadioButtons() {
     var selectedPaymentMethod by remember { mutableStateOf("PayPal") }
-    val methods = listOf("PayPal", "Google Pay", "Apple Pay")
+    val methods = listOf("Credito", "Nu", "Bancolombia")
 
     Column(
         modifier = Modifier

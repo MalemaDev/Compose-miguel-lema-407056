@@ -9,7 +9,7 @@
     <string name="settings_mobile_data">
     Download using mobile data?
 </string>
-    <string name="settings_text_size">Text size:</string>
+    <string name="settings_text_size">Tamano del texto:</string>
     <string name="settings_name">Name:</string>
     <string name="sign_out">Sign out</string>
     <string name="alert_title">Sign out</string>
